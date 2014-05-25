@@ -19,12 +19,12 @@ to retrieve and calculations to perform can be revisited.
 
 make activity information more descriptive by makeing following conversions
 
-1 - walking
-2 - walking upstairs
-3 - walking downstairs
-4 - sitting
-5 - standing
-6 - laying
+1. 1 - walking
+2. 2 - walking upstairs
+3. 3 - walking downstairs
+4. 4 - sitting
+5. 5 - standing
+6. 6 - laying
 
 
 3. cosolidate measurement training and test data
