@@ -19,12 +19,12 @@ to retrieve and calculations to perform can be revisited.
 
 make activity information more descriptive by makeing following conversions
 
-1 -> walking
-2 -> walking upstairs
-3 -> walking downstairs
-4 -> sitting
-5 -> standing
-6 -> laying
+1 - walking
+2 - walking upstairs
+3 - walking downstairs
+4 - sitting
+5 - standing
+6 - laying
 
 
 3. cosolidate measurement training and test data
@@ -33,23 +33,23 @@ a. rename variables
 b. consolidate variables to just mean and standard deviation variables
 
 VARIABLE -> COLUMN IN DATASET
-tBodyAcc-XYZ  	-> 1-6
-tGravityAcc-XYZ		-> 41-46
-tBodyAccJerk-XYZ	-> 81-86
-tBodyGyro-XYZ		-> 121-126
-tBodyGyroJerk-XYZ	-> 161-166
-tBodyAccMag		-> 201-202
-tGravityAccMag		-> 214-215
-tBodyAccJerkMag		-> 227-228
-tBodyGyroMag		-> 240-241
-tBodyGyroJerkMag	-> 253-254
-fBodyAcc-XYZ		-> 266-271
-fBodyAccJerk-XYZ	-> 345-350
-fBodyGyro-XYZ		-> 424-429
-fBodyAccMag		-> 503-504
-fBodyAccJerkMag		-> 516-517
-fBodyGyroMag		-> 529-530
-fBodyGyroJerkMag	-> 542-543
+tBodyAcc-XYZ  	- 1-6
+tGravityAcc-XYZ		- 41-46
+tBodyAccJerk-XYZ	- 81-86
+tBodyGyro-XYZ		- 121-126
+tBodyGyroJerk-XYZ	- 161-166
+tBodyAccMag		- 201-202
+tGravityAccMag		- 214-215
+tBodyAccJerkMag		- 227-228
+tBodyGyroMag		- 240-241
+tBodyGyroJerkMag	- 253-254
+fBodyAcc-XYZ		- 266-271
+fBodyAccJerk-XYZ	- 345-350
+fBodyGyro-XYZ		- 424-429
+fBodyAccMag		- 503-504
+fBodyAccJerkMag		- 516-517
+fBodyGyroMag		- 529-530
+fBodyGyroJerkMag	- 542-543
 
 4. consolidate 3 sets of data into one dataframe
 
